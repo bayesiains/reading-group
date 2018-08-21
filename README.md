@@ -1,4 +1,4 @@
-# Bayes*i*ains Reading Group
+# Bayesiains Reading Group
 
 *Time and place*: TBD
 
