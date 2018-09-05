@@ -7,7 +7,7 @@
 ### Variational Inference
 
 - Blei tutorial (https://arxiv.org/abs/1601.00670 ?)
-- [Local Reparameterization Trick](https://arxiv.org/abs/1506.02557). Excl. variational dropout stuff. More detailed treatment in related [PhD thesis (PDF)](https://s3-us-west-2.amazonaws.com/openai-assets/blocksparse/blocksparsepaper.pdf).
+- [Local Reparameterization Trick](https://arxiv.org/abs/1506.02557). Excl. variational dropout stuff. More detailed treatment in related [PhD thesis (PDF)](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1).
 - [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961)
 - K-FAC:
   - [Optimizing Neural Networks with Kronecker-factored Approximate Curvature](https://arxiv.org/abs/1503.05671)
