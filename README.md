@@ -13,6 +13,8 @@
   - [Optimizing Neural Networks with Kronecker-factored Approximate Curvature](https://arxiv.org/abs/1503.05671)
   - [Noisy Natural Gradient as Variational Inference](https://arxiv.org/abs/1712.02390)
 - [Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam](https://arxiv.org/abs/1806.04854)
+- [
+The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044). Information theoretic analysis of variational approximations for neural nets.
   
 ### Sampling methods
 
