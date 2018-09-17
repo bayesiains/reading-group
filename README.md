@@ -1,6 +1,6 @@
 # Bayesiains Reading Group
 
-*Time and place*: TBD (probably after MLPR-related schedules are settled)
+*Time and place*: 2-3pm on Thursdays, IF 5.02
 
 ## Topics/papers
 
@@ -34,4 +34,5 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 
 ## Rota
 
-...
+- 20 Sep: Artur, ADF/EP
+- ...
