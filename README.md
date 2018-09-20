@@ -23,7 +23,7 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 
 ### EP/ADF
 
-- [Expectation Propagation for approximate Bayesian inference](https://arxiv.org/abs/1301.2294). Also related [PhD thesis (PDF)](https://tminka.github.io/papers/ep/minka-thesis.pdf)
+- [x] [Expectation Propagation for approximate Bayesian inference](https://arxiv.org/abs/1301.2294). Also related [PhD thesis (PDF)](https://tminka.github.io/papers/ep/minka-thesis.pdf)
 - For NNs:
   - [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/abs/1502.05336)
   - [Expectation Propagation for Neural Networks with Sparsity-promoting Priors](https://arxiv.org/abs/1303.6938)
@@ -34,5 +34,5 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 
 ## Rota
 
-- 20 Sep: Artur, ADF/EP
+- 20 Sep: Artur. EP/ADF: Sections 3.1 and 3.2 in [Minka's thesis](https://tminka.github.io/papers/ep/minka-thesis.pdf)
 - ...
