@@ -35,4 +35,4 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 ## Rota
 
 - 20 Sep: Artur. EP/ADF: Sections 3.1 and 3.2 in [Minka's thesis](https://tminka.github.io/papers/ep/minka-thesis.pdf)
-- ...
+- 27 Sep: James. [Expectation propagation as a way of life](https://arxiv.org/abs/1412.4869)
