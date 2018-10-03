@@ -6,7 +6,7 @@
 
 ### Variational Inference
 
-- Blei tutorial (https://arxiv.org/abs/1601.00670 ?)
+- [Blei's VI tutorial](https://arxiv.org/abs/1601.00670)
 - [Local Reparameterization Trick](https://arxiv.org/abs/1506.02557). Excl. variational dropout stuff. More detailed treatment in related [PhD thesis (PDF)](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?raw=1).
 - [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961)
 - K-FAC:
@@ -36,3 +36,5 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 
 - 20 Sep: Artur. EP/ADF: Sections 3.1 and 3.2 in [Minka's thesis](https://tminka.github.io/papers/ep/minka-thesis.pdf)
 - 27 Sep: James. [Expectation propagation as a way of life](https://arxiv.org/abs/1412.4869)
+- 3 Oct: Conor. Sections 1 to 3 in [Blei's VI tutorial](https://arxiv.org/abs/1601.00670)
+- 10 Oct: Asa (?). Section 4 in [Blei's VI tutorial](https://arxiv.org/abs/1601.00670).
