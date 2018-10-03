@@ -1,6 +1,6 @@
 # Bayesiains Reading Group
 
-*Time and place*: 2-3pm on Thursdays, IF 5.02
+*Time and place*: 9.30am on Wednesdays, IF 1.16
 
 ## Topics/papers
 
