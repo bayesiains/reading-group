@@ -37,4 +37,8 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 - 20 Sep: Artur. EP/ADF: Sections 3.1 and 3.2 in [Minka's thesis](https://tminka.github.io/papers/ep/minka-thesis.pdf)
 - 27 Sep: James. [Expectation propagation as a way of life](https://arxiv.org/abs/1412.4869)
 - 3 Oct: Conor. Sections 1 to 3 in [Blei's VI tutorial](https://arxiv.org/abs/1601.00670)
-- 10 Oct: Asa. [Stochastic EP](https://papers.nips.cc/paper/5760-stochastic-expectation-propagation).
+- 10 Oct: Asa. [Stochastic EP](https://papers.nips.cc/paper/5760-stochastic-expectation-propagation)
+- 17 Oct: Artur. Section 4 in [Blei's VI tutorial](https://arxiv.org/abs/1601.00670)
+- 24 Oct: James. ???
+- 31 Oct: Conor. ???
+- 7 Nov: Asa. ???
