@@ -20,6 +20,7 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 
 - [Sequential Monte Carlo (PDF)](https://www.stats.ox.ac.uk/~doucet/doucet_defreitas_gordon_smcbookintro.pdf)
 - [Particle Gibbs sampling (PDF)](https://www.stats.ox.ac.uk/~doucet/andrieu_doucet_holenstein_PMCMC.pdf)
+- [Annealed Importance Sampling](https://arxiv.org/abs/physics/9803008)
 
 ### EP/ADF
 
@@ -40,5 +41,5 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 - 10 Oct: Asa. [Stochastic EP](https://papers.nips.cc/paper/5760-stochastic-expectation-propagation)
 - 17 Oct: Artur. Section 4 in [Blei's VI tutorial](https://arxiv.org/abs/1601.00670)
 - 24 Oct: James. ???
-- 31 Oct: Conor. ???
+- 31 Oct: Conor. [Annealed Importance Sampling](https://arxiv.org/abs/physics/9803008)
 - 7 Nov: Asa. ???
