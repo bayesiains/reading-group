@@ -44,7 +44,7 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 | 17 Oct | Artur | Section 4 in [Blei's VI tutorial](https://arxiv.org/abs/1601.00670) |
 | 24 Oct | James | [Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC](https://arxiv.org/abs/1507.04544) |
 | 31 Oct | Conor | [Annealed Importance Sampling](https://arxiv.org/abs/physics/9803008) |
-|  7 Nov | Asa   | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) and [Recasting Gradient-Based Meta-Learning as Hierarchical Bayes](https://arxiv.org/abs/1801.08930) |
+|  7 Nov | Asa   | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) <br/> [Recasting Gradient-Based Meta-Learning as Hierarchical Bayes](https://arxiv.org/abs/1801.08930) |
 | 14 Nov | Artur |  |
 | 21 Nov | James |  |
 | 28 Nov | Conor |  |
