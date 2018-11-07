@@ -20,7 +20,7 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 
 - [Sequential Monte Carlo (PDF)](https://www.stats.ox.ac.uk/~doucet/doucet_defreitas_gordon_smcbookintro.pdf)
 - [Particle Gibbs sampling (PDF)](https://www.stats.ox.ac.uk/~doucet/andrieu_doucet_holenstein_PMCMC.pdf)
-- [Annealed Importance Sampling](https://arxiv.org/abs/physics/9803008)
+- [x] [Annealed Importance Sampling](https://arxiv.org/abs/physics/9803008)
 
 ### EP/ADF
 
@@ -45,8 +45,8 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 | 24 Oct | James | [Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC](https://arxiv.org/abs/1507.04544) |
 | 31 Oct | Conor | [Annealed Importance Sampling](https://arxiv.org/abs/physics/9803008) |
 |  7 Nov | Asa   | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) <br/> [Recasting Gradient-Based Meta-Learning as Hierarchical Bayes](https://arxiv.org/abs/1801.08930) |
-| 14 Nov | Artur |  |
-| 21 Nov | James |  |
+| 14 Nov | Artur | [Noisy Natural Gradient as Variational Inference](https://arxiv.org/abs/1712.02390) |
+| 21 Nov | James | [Sequential Monte Carlo](https://www.stats.ox.ac.uk/~doucet/doucet_defreitas_gordon_smcbookintro.pdf) |
 | 28 Nov | Conor |  |
 |  5 Dec | Asa   |  |
 | 12 Dec | Artur |  |
