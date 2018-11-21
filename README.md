@@ -47,6 +47,6 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 |  7 Nov | Asa   | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) <br/> [Recasting Gradient-Based Meta-Learning as Hierarchical Bayes](https://arxiv.org/abs/1801.08930) |
 | 14 Nov | Artur | [Noisy Natural Gradient as Variational Inference](https://arxiv.org/abs/1712.02390) |
 | 21 Nov | James | [Sequential Monte Carlo](https://www.stats.ox.ac.uk/~doucet/doucet_defreitas_gordon_smcbookintro.pdf) |
-| 28 Nov | Conor | [Density Estimation using Real NVP](https://arxiv.org/abs/1605.08803) |
+| 28 Nov | Conor | [Density Estimation using Real NVP](https://arxiv.org/abs/1605.08803), [Glow](https://arxiv.org/abs/1807.03039), [WaveGlow](https://arxiv.org/abs/1811.00002), [FloWaveNet](https://arxiv.org/abs/1811.02155) |
 |  5 Dec | Asa   |  |
 | 12 Dec | Artur |  |
