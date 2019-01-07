@@ -37,8 +37,8 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 
 *Resuming in 2019*
 
-| Date  | Person | Paper |
+| Date  | Person | Paper(s) |
 | --- | --- | --- |
-| 16 Jan | George ||
+| 9 Jan | George | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)<br/>[FJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367) |
 
 
