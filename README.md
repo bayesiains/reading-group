@@ -2,6 +2,13 @@
 
 *Time and place*: 9.30am on Wednesdays, IF 1.16
 
+## Rota
+
+| Date  | Person | Paper(s) |
+| --- | --- | --- |
+| 9 Jan | George | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)<br/>[FJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367) |
+| 16 Jan | Artur | [Do Deep Generative Models Know What They Don't Know?](https://arxiv.org/abs/1810.09136) |
+
 ## Topics/papers
 
 ### Variational Inference
@@ -18,7 +25,7 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
   
 ### Sampling methods
 
-- [Sequential Monte Carlo (PDF)](https://www.stats.ox.ac.uk/~doucet/doucet_defreitas_gordon_smcbookintro.pdf)
+- [x] [Sequential Monte Carlo (PDF)](https://www.stats.ox.ac.uk/~doucet/doucet_defreitas_gordon_smcbookintro.pdf)
 - [Particle Gibbs sampling (PDF)](https://www.stats.ox.ac.uk/~doucet/andrieu_doucet_holenstein_PMCMC.pdf)
 - [x] [Annealed Importance Sampling](https://arxiv.org/abs/physics/9803008)
 
@@ -32,13 +39,3 @@ The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044
 ### Classic papers
 
 - [A Unifying Review of Linear Gaussian Models (PDF)](http://mlg.eng.cam.ac.uk/zoubin/papers/lds.pdf)
-
-## Rota
-
-*Resuming in 2019*
-
-| Date  | Person | Paper(s) |
-| --- | --- | --- |
-| 9 Jan | George | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)<br/>[FJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367) |
-
-
