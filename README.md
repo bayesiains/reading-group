@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | 9 Jan | George | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)<br/>[FJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367) |
 | 16 Jan | Artur | [Do Deep Generative Models Know What They Don't Know?](https://arxiv.org/abs/1810.09136) |
+| 23 Jan | James | [Getting It Right: Joint Distribution Tests of Posterior Simulators](https://www.jstor.org/stable/27590449) |
 
 ## Topics/papers
 
