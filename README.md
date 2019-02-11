@@ -11,6 +11,7 @@
 | 23 Jan | James | [Getting It Right: Joint Distribution Tests of Posterior Simulators](https://www.jstor.org/stable/27590449) |
 | 30 Jan | Conor | [Decomposition of Uncertainty in Bayesian Deep Learning for Efficient and Risk-sensitive Learning](https://arxiv.org/abs/1710.07283) |
 | 6 Feb | Asa | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) <br/> [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) |
+| 13 Feb | Iain | [Extreme Components Analysis](https://papers.nips.cc/paper/2517-extreme-components-analysis) <br/> [Bayesian Extreme Components Analysis](https://www.ics.uci.edu/~welling/publications/papers/BayesianXCA_IJCAI09%28color%29.pdf) |
 
 ## Topics/papers
 
