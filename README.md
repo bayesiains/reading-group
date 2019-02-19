@@ -12,7 +12,7 @@
 | 30 Jan | Conor | [Decomposition of Uncertainty in Bayesian Deep Learning for Efficient and Risk-sensitive Learning](https://arxiv.org/abs/1710.07283) |
 | 6 Feb | Asa | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) <br/> [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) |
 | 13 Feb | Iain | [Extreme Components Analysis](https://papers.nips.cc/paper/2517-extreme-components-analysis) <br/> [Bayesian Extreme Components Analysis](https://www.ics.uci.edu/~welling/publications/papers/BayesianXCA_IJCAI09%28color%29.pdf) |
-| 20 Feb | George | [Sylvester Normalizing Flows for Variational Inference](https://arxiv.org/abs/1803.05649) <br/> [Improving Variational Auto-Encoders using Householder Flow](https://arxiv.org/abs/1611.09630) |
+| 20 Feb | George | [Sylvester Normalizing Flows for Variational Inference](https://arxiv.org/abs/1803.05649) <br/> [Improving Variational Auto-Encoders using Householder Flow](https://arxiv.org/abs/1611.09630) <br/> [Emerging Convolutions for Generative Normalizing Flows](https://arxiv.org/abs/1901.11137) |
 
 ## Topics/papers
 
