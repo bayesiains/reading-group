@@ -16,6 +16,7 @@
 | 27 Feb | Artur | [Invertible Residual Networks](https://arxiv.org/abs/1811.00995) |
 | 13 Mar | James | [Particle MCMC](http://dx.doi.org/10.1111/j.1467-9868.2009.00736.x) and Darren Wilkinson's [blog posts](https://darrenjw.wordpress.com/2014/01/25/introduction-to-the-particle-gibbs-sampler/) |
 | 20 Mar | Conor | Causality. Background reading: Ference blog posts ([1](https://www.inference.vc/untitled/), [2](https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/), [3](https://www.inference.vc/causal-inference-3-counterfactuals/)) and reminder of DAG basics ([pmr notes](https://www.inf.ed.ac.uk/teaching/courses/pmr/18-19/assets/slides/slides03b.pdf)) |
+| 27 Mar | Iain | [Self-tuning neural networks](https://arxiv.org/abs/1903.03088) ([openreview discussion](https://openreview.net/forum?id=r1eEG20qKQ)) |
 
 ## Topics/papers
 
