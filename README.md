@@ -17,6 +17,8 @@
 | 13 Mar | James | [Particle MCMC](http://dx.doi.org/10.1111/j.1467-9868.2009.00736.x) and Darren Wilkinson's [blog posts](https://darrenjw.wordpress.com/2014/01/25/introduction-to-the-particle-gibbs-sampler/) |
 | 20 Mar | Conor | Causality. Background reading: Ference blog posts ([1](https://www.inference.vc/untitled/), [2](https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/), [3](https://www.inference.vc/causal-inference-3-counterfactuals/)) and reminder of DAG basics ([pmr notes](https://www.inf.ed.ac.uk/teaching/courses/pmr/18-19/assets/slides/slides03b.pdf)) |
 | 27 Mar | Iain | [Self-tuning neural networks](https://arxiv.org/abs/1903.03088) ([openreview discussion](https://openreview.net/forum?id=r1eEG20qKQ)) |
+| 10 Apr | Asa | [Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576). ([use-case for mobile devices](https://ai.googleblog.com/2019/03/rnn-based-handwriting-recognition-in.html))
+| 17 Apr | Artur | [Hybrid Models with Deep and Invertible Features](https://arxiv.org/abs/1902.02767) |
 
 ## Topics/papers
 
