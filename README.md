@@ -19,6 +19,7 @@
 | 27 Mar | Iain | [Self-tuning neural networks](https://arxiv.org/abs/1903.03088) ([openreview discussion](https://openreview.net/forum?id=r1eEG20qKQ)) |
 | 10 Apr | Asa | [Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576) ([use-case for mobile devices](https://ai.googleblog.com/2019/03/rnn-based-handwriting-recognition-in.html))
 | 17 Apr | Artur | [Hybrid Models with Deep and Invertible Features](https://arxiv.org/abs/1902.02767) |
+| 8 May  | James | [Validating Bayesian Inference Algorithms with Simulation-Based Calibration](https://arxiv.org/abs/1804.06788) |
 
 ## Topics/papers
 
