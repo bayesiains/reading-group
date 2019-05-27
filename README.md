@@ -20,6 +20,7 @@
 | 10 Apr | Asa | [Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576) ([use-case for mobile devices](https://ai.googleblog.com/2019/03/rnn-based-handwriting-recognition-in.html))
 | 17 Apr | Artur | [Hybrid Models with Deep and Invertible Features](https://arxiv.org/abs/1902.02767) |
 | 8 May  | James | [Validating Bayesian Inference Algorithms with Simulation-Based Calibration](https://arxiv.org/abs/1804.06788) |
+| 29 May | Iain  | Sketch overview of Information Theory basics. Readings from [David MacKay's book](http://www.inference.org.uk/itila/book.html). Chapter 4 starts with accessible intuition for information content and entropy (then gets harder going as moves towards proving the source coding theorem). Chapters 5 and 6 talk about how to actually compress data down to its entropy, read at least up to Section 5.4 for the connection to KL-divergence. For noisy channel coding, the really high-level overview is the introduction in chapter 1 (skimming over details of Hamming codes), and then Chapter 9 gives an intuitive overview. (The proof itself is in Chapter 10.) There are summaries of key definitions on p32–35 and p138–139. |
 
 ## Topics/papers
 
