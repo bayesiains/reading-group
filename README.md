@@ -24,6 +24,7 @@
 | 26 June | Iain  | Information Theory basics 1/2, information, entropy and source coding. Readings from [David MacKay's book](http://www.inference.org.uk/itila/book.html). Chapter 4 starts with accessible intuition for information content and entropy (then gets harder going as moves towards proving the source coding theorem). Chapters 5 and 6 talk about how to actually compress data down to its entropy, read at least up to Section 5.4 for the connection to KL-divergence. Summary of key definitions on p32–35. |
 | 3 July | Iain  | Information Theory basics 2/2, noisy channel coding. Readings from [David MacKay's book](http://www.inference.org.uk/itila/book.html). A really high-level overview is the introduction in chapter 1 (skimming over details of Hamming codes), and then Chapter 9 gives an intuitive overview. (The proof itself is in Chapter 10.) Summary of key definitions p138–139. |
 | 10 July | | _No meeting._ |
+| 17 July | Asa | [Sparse Gaussian Processes](https://papers.nips.cc/paper/2857-sparse-gaussian-processes-using-pseudo-inputs). [Useful blog post](https://www.prowler.io/blog/sparse-gps-approximate-the-posterior-not-the-model)|
 
 ## Topics/papers
 
