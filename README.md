@@ -25,6 +25,7 @@
 | 3 July | Iain  | Information Theory basics 2/2, noisy channel coding. Readings from [David MacKay's book](http://www.inference.org.uk/itila/book.html). A really high-level overview is the introduction in chapter 1 (skimming over details of Hamming codes), and then Chapter 9 gives an intuitive overview. (The proof itself is in Chapter 10.) Summary of key definitions p138–139. |
 | 10 July | | _No meeting._ |
 | 17 July | Asa | [Sparse Gaussian Processes](https://papers.nips.cc/paper/2857-sparse-gaussian-processes-using-pseudo-inputs). [Useful blog post](https://www.prowler.io/blog/sparse-gps-approximate-the-posterior-not-the-model)|
+| 24 July | Artur | Intro to neural processes. </br> [Conditional Neural Processes](https://arxiv.org/abs/1807.01613). </br> [Neural Processes](https://arxiv.org/abs/1807.01622). </br> [Neural Processes as distributions over functions (blog post)](https://kasparmartens.rbind.io/post/np/)
 
 ## Topics/papers
 
