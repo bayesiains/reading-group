@@ -29,6 +29,7 @@ From Monday 2 September 2019, we'll be at 2pm on Mondays, IF 1.16.
 | 17 July | Asa | [Sparse Gaussian Processes](https://papers.nips.cc/paper/2857-sparse-gaussian-processes-using-pseudo-inputs). [Useful blog post](https://www.prowler.io/blog/sparse-gps-approximate-the-posterior-not-the-model)|
 | 24 July | Artur | Intro to neural processes. </br> [Conditional Neural Processes](https://arxiv.org/abs/1807.01613). </br> [Neural Processes](https://arxiv.org/abs/1807.01622). </br> [Neural Processes as distributions over functions (blog post)](https://kasparmartens.rbind.io/post/np/)
 | 31 July | Conor | [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818) and associated [blog post](http://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html)
+| 7 August | | _No meeting._ |
 
 ## Topics/papers
 
