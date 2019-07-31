@@ -8,7 +8,7 @@ From Monday 2 September 2019, we'll be at 2pm on Mondays, IF 1.16.
 
 | Date  | Person | Paper(s) |
 | --- | --- | --- |
-| 9 Jan | George | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)<br/>[FJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367) |
+| 9&nbsp;Jan&nbsp;&nbsp;&nbsp;&nbsp;| George | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)<br/>[FJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367) |
 | 16 Jan | Artur | [Do Deep Generative Models Know What They Don't Know?](https://arxiv.org/abs/1810.09136) |
 | 23 Jan | James | [Getting It Right: Joint Distribution Tests of Posterior Simulators](https://www.jstor.org/stable/27590449) |
 | 30 Jan | Conor | [Decomposition of Uncertainty in Bayesian Deep Learning for Efficient and Risk-sensitive Learning](https://arxiv.org/abs/1710.07283) |
@@ -23,13 +23,13 @@ From Monday 2 September 2019, we'll be at 2pm on Mondays, IF 1.16.
 | 17 Apr | Artur | [Hybrid Models with Deep and Invertible Features](https://arxiv.org/abs/1902.02767) |
 | 8 May  | James | [Validating Bayesian Inference Algorithms with Simulation-Based Calibration](https://arxiv.org/abs/1804.06788) |
 | 15 May  | Conor | Maximum Mean Discrepancy with a dash of functional analysis. [A Kernel Method for the Two-Sample Problem](https://papers.nips.cc/paper/3110-a-kernel-method-for-the-two-sample-problem), [A Kernel Two-Sample Test](http://jmlr.csail.mit.edu/papers/v13/gretton12a.html), [Generative Moment Matching Networks](https://arxiv.org/abs/1502.02761), [StackExchange post](https://stats.stackexchange.com/a/276618), [inevitable Ferenc blog post](https://www.inference.vc/another-favourite-machine-learning-paper-adversarial-networks-vs-kernel-scoring-rules/). |
-| 26 June | Iain  | Information Theory basics 1/2, information, entropy and source coding. Readings from [David MacKay's book](http://www.inference.org.uk/itila/book.html). Chapter 4 starts with accessible intuition for information content and entropy (then gets harder going as moves towards proving the source coding theorem). Chapters 5 and 6 talk about how to actually compress data down to its entropy, read at least up to Section 5.4 for the connection to KL-divergence. Summary of key definitions on p32–35. |
-| 3 July | Iain  | Information Theory basics 2/2, noisy channel coding. Readings from [David MacKay's book](http://www.inference.org.uk/itila/book.html). A really high-level overview is the introduction in chapter 1 (skimming over details of Hamming codes), and then Chapter 9 gives an intuitive overview. (The proof itself is in Chapter 10.) Summary of key definitions p138–139. |
-| 10 July | | _No meeting._ |
-| 17 July | Asa | [Sparse Gaussian Processes](https://papers.nips.cc/paper/2857-sparse-gaussian-processes-using-pseudo-inputs). [Useful blog post](https://www.prowler.io/blog/sparse-gps-approximate-the-posterior-not-the-model)|
-| 24 July | Artur | Intro to neural processes. </br> [Conditional Neural Processes](https://arxiv.org/abs/1807.01613). </br> [Neural Processes](https://arxiv.org/abs/1807.01622). </br> [Neural Processes as distributions over functions (blog post)](https://kasparmartens.rbind.io/post/np/)
-| 31 July | Conor | [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818) and associated [blog post](http://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html)
-| 7 August | | _No meeting._ |
+| 26 Jun | Iain  | Information Theory basics 1/2, information, entropy and source coding. Readings from [David MacKay's book](http://www.inference.org.uk/itila/book.html). Chapter 4 starts with accessible intuition for information content and entropy (then gets harder going as moves towards proving the source coding theorem). Chapters 5 and 6 talk about how to actually compress data down to its entropy, read at least up to Section 5.4 for the connection to KL-divergence. Summary of key definitions on p32–35. |
+| 3 Jul | Iain  | Information Theory basics 2/2, noisy channel coding. Readings from [David MacKay's book](http://www.inference.org.uk/itila/book.html). A really high-level overview is the introduction in chapter 1 (skimming over details of Hamming codes), and then Chapter 9 gives an intuitive overview. (The proof itself is in Chapter 10.) Summary of key definitions p138–139. |
+| 10 Jul | | _No meeting._ |
+| 17 Jul | Asa | [Sparse Gaussian Processes](https://papers.nips.cc/paper/2857-sparse-gaussian-processes-using-pseudo-inputs). [Useful blog post](https://www.prowler.io/blog/sparse-gps-approximate-the-posterior-not-the-model)|
+| 24 Jul | Artur | Intro to neural processes. </br> [Conditional Neural Processes](https://arxiv.org/abs/1807.01613). </br> [Neural Processes](https://arxiv.org/abs/1807.01622). </br> [Neural Processes as distributions over functions (blog post)](https://kasparmartens.rbind.io/post/np/)
+| 31 Jul | Conor | [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818) and associated [blog post](http://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html)
+| 7 Aug | | _No meeting._ |
 
 ## Topics/papers
 
