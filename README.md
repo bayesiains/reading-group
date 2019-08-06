@@ -30,6 +30,7 @@ From Monday 2 September 2019, we'll be at 2pm on Mondays, IF 1.16.
 | 24 Jul | Artur | Intro to neural processes. </br> [Conditional Neural Processes](https://arxiv.org/abs/1807.01613). </br> [Neural Processes](https://arxiv.org/abs/1807.01622). </br> [Neural Processes as distributions over functions (blog post)](https://kasparmartens.rbind.io/post/np/)
 | 31 Jul | Conor | [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818) and associated [blog post](http://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html)
 | 7 Aug | | _No meeting._ |
+| 14 Aug | James | [Nonlinear independent component analysis: Existence and uniqueness results](https://www.sciencedirect.com/science/article/pii/S0893608098001403) (Elsevier-free version without inline figures [here](https://www.cs.helsinki.fi/u/ahyvarin/papers/NN99.pdf)) |
 
 ## Topics/papers
 
