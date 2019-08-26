@@ -32,6 +32,7 @@ From Monday 2 September 2019, we'll be at 2pm on Mondays, IF 1.16.
 | 7 Aug | | _No meeting._ |
 | 14 Aug | James | [Nonlinear independent component analysis: Existence and uniqueness results](https://www.sciencedirect.com/science/article/pii/S0893608098001403) (Elsevier-free version without inline figures [here](https://www.cs.helsinki.fi/u/ahyvarin/papers/NN99.pdf)) |
 | 21 Aug | Iain | Exact Monte Carlo Sampling, Chapter 32 of [MacKay's book](http://www.inference.org.uk/itila/book.html) and [Exact Estimation for Markov Chain Equilibrium Expectations](http://web.stanford.edu/~glynn/papers/2014/GRhee14.html). Further reading: [exact sampling](http://www.dbwilson.com/exact/) and [exact estimation with MCMC](https://sites.google.com/site/pierrejacob/articles). |
+| 28 Aug | | _No meeting._ |
 
 ## Topics/papers
 
