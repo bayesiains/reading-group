@@ -31,7 +31,7 @@ From Monday 2 September 2019, we'll be at 2pm on Mondays, IF 1.16.
 | 31 Jul | Conor | [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818) and associated [blog post](http://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html)
 | 7 Aug | | _No meeting._ |
 | 14 Aug | James | [Nonlinear independent component analysis: Existence and uniqueness results](https://www.sciencedirect.com/science/article/pii/S0893608098001403) (Elsevier-free version without inline figures [here](https://www.cs.helsinki.fi/u/ahyvarin/papers/NN99.pdf)) |
-| 21 Aug | Iain | Exact Monte Carlo Sampling, Chapter 32 of [MacKay's book](http://www.inference.org.uk/itila/book.html) and [Exact Estimation for Markov Chain Equilibrium Expectations](http://web.stanford.edu/~glynn/papers/2014/GRhee14.html) |
+| 21 Aug | Iain | Exact Monte Carlo Sampling, Chapter 32 of [MacKay's book](http://www.inference.org.uk/itila/book.html) and [Exact Estimation for Markov Chain Equilibrium Expectations](http://web.stanford.edu/~glynn/papers/2014/GRhee14.html). Further reading: [exact sampling](http://www.dbwilson.com/exact/) and [exact estimation with MCMC](https://sites.google.com/site/pierrejacob/articles). |
 
 ## Topics/papers
 
