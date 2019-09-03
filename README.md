@@ -1,8 +1,6 @@
 # Bayesiains Reading Group
 
-*Time and place*: 9.30am on Wednesdays until 28 August 2019, IF 1.16
-
-From Monday 2 September 2019, we'll be at 2pm on Mondays, IF 1.16.
+*Time and place*: 2pm on Mondays, IF 1.16.
 
 ## Rota
 
