@@ -33,7 +33,10 @@
 | 28 Aug | | _No meeting._ |
 | 2 Sep | Asa | [Mutual Information for representation learning](https://arxiv.org/abs/1907.13625)|
 | 9 Sep | Conor | [Discrete Flows: Invertible Generative Models of Discrete Data](https://arxiv.org/abs/1905.10347) and [Integer Discrete Flows and Lossless Compression](https://arxiv.org/abs/1905.07376) |
-| 16 Sep | Artur | Dequantization. [Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design](https://arxiv.org/abs/1902.00275) (mostly section 3.1). Section 3.1 in [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844). (Optional: [Compression with Flows via Local Bits-Back Coding](https://arxiv.org/abs/1905.08500))
+| 16 Sep | Artur | Dequantization. [Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design](https://arxiv.org/abs/1902.00275) (mostly section 3.1). Section 3.1 in [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844). (Optional: [Compression with Flows via Local Bits-Back Coding](https://arxiv.org/abs/1905.08500)) |
+| 23 Sep | | _No meeting._ |
+| 30 Sep | Tiffany | TBA |
+| 7 Oct |  | _No meeting._ |
 
 ## Topics/papers
 
