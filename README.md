@@ -92,3 +92,7 @@ Methods for latent variable models. Concrete distribution, REBAR/RELAX...?
 - A look at what's inside widely-used tools like [XGBoost](http://dmlc.cs.washington.edu/xgboost.html), [LightGBM](https://github.com/microsoft/LightGBM), or [CatBoost](https://catboost.ai/)?
 
 
+### Embedding different data types
+
+- Graph Neural Networks?
+
