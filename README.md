@@ -6,7 +6,7 @@
 
 | Date  | Person | Paper(s) |
 | --- | --- | --- |
-| 20 Jan |  |  |
+| 20 Jan | James | [Fast and Accurate Least-Mean-Squares Solvers](https://papers.nips.cc/paper/9040-fast-and-accurate-least-mean-squares-solvers) |
 | 3 Feb |  |  |
 | 17 Feb | Tiffany | [Partitioned integrators for thermodynamic parameterization of neural networks](https://arxiv.org/abs/1908.11843) |
 | 9 Mar |  |  |
