@@ -9,7 +9,7 @@
 | 20 Jan | James | [Fast and Accurate Least-Mean-Squares Solvers](https://papers.nips.cc/paper/9040-fast-and-accurate-least-mean-squares-solvers) |
 | 3 Feb | Iain | [HNSW](https://arxiv.org/abs/1603.09320) for approximate nearest neighbours |
 | 17 Feb | Tiffany | [Partitioned integrators for thermodynamic parameterization of neural networks](https://arxiv.org/abs/1908.11843) |
-| 9 Mar |  |  |
+| 9 Mar | Conor | [MC Gradient Estimation in ML](https://arxiv.org/abs/1906.10652) (Sections 4, 5, 7), [Concrete Distribution](https://arxiv.org/abs/1611.00712) & [Gumbel-Softmax](https://arxiv.org/abs/1611.01144) (reparameterization trick for discrete variables), [REBAR](https://arxiv.org/abs/1703.07370) (control variates for score function estimator using concrete/GS) |
 | 23 Mar |  |  |
 | 6 Apr |  |  |
 | 20 Apr |  |  |
