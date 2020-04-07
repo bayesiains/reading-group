@@ -10,7 +10,7 @@
 | 3 Feb | Iain | [HNSW](https://arxiv.org/abs/1603.09320) for approximate nearest neighbours |
 | 17 Feb | Tiffany | [Partitioned integrators for thermodynamic parameterization of neural networks](https://arxiv.org/abs/1908.11843) |
 | 9 Mar | Conor | [MC Gradient Estimation in ML](https://arxiv.org/abs/1906.10652) (Sections 4, 5, 7), [Concrete Distribution](https://arxiv.org/abs/1611.00712) & [Gumbel-Softmax](https://arxiv.org/abs/1611.01144) (reparameterization trick for discrete variables), [REBAR](https://arxiv.org/abs/1703.07370) (control variates for score function estimator using concrete/GS) |
-| 23 Mar |  |  |
+| 31 Mar | Artur | Contrastive methods for representation learning. [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709), [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748), [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272) |
 | 6 Apr |  |  |
 | 20 Apr |  |  |
 | 4 May |  |  |
