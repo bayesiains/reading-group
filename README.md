@@ -12,7 +12,7 @@
 | 9 Mar | Conor | [MC Gradient Estimation in ML](https://arxiv.org/abs/1906.10652) (Sections 4, 5, 7), [Concrete Distribution](https://arxiv.org/abs/1611.00712) & [Gumbel-Softmax](https://arxiv.org/abs/1611.01144) (reparameterization trick for discrete variables), [REBAR](https://arxiv.org/abs/1703.07370) (control variates for score function estimator using concrete/GS) |
 | 31 Mar | Artur | Contrastive methods for representation learning. [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709), [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748), [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272) |
 | 15 Apr | Asa  | Calibration under dataset shift [Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://papers.nips.cc/paper/9547-can-you-trust-your-models-uncertainty-evaluating-predictive-uncertainty-under-dataset-shift) |
-| 20 Apr |  |  |
+| 29 Apr | James | [SUMO: Unbiased Estimation of Log Marginal Probability for Latent Variable Models](https://openreview.net/forum?id=SylkYeHtwr) |
 | 4 May |  |  |
 | 18 May |  |  |
 | 1 June |  |  |
